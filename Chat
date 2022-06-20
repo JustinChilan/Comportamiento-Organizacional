@@ -1,0 +1,16 @@
+//La comunicación interpersonal es el proceso por el cual los seres humanos intercambian
+sentimientos e información mediante mensajes verbales y no verbales.
+Esta constituye un elemento elemental en las relaciones humanas. Conoce todas las claves que
+necesitas saber para practicar una comunicación interpersonal de calidad.
+Una llamada telefónica, una conversación entre amigos o una reunión de trabajo son algunos
+ejemplos de comunicación interpersonal. Aunque las personas practican a diario este tipo de
+comunicación, ya que es algo ineludible, no siempre se reflexiona sobre su importancia.
+Tampoco sobre los problemas que pueden surgir si no se realiza correctamente.
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="CompOrg"
+  agent-id="a3cd4782-7ca3-4402-80ec-d471b6ce645b"
+  language-code="es"
+></df-messenger>
